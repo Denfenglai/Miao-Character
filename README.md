@@ -7,7 +7,7 @@ Miao-Plugin的角色面板(彩蛋)图库
 
 #### 图库说明
 
-此库提供由我或他人笑脸抠制的自主上传的角色面板彩蛋图<br>
+此库提供由我或AI抠制的自主上传的角色面板彩蛋图<br>
 ##### 原图均来源于[pixiv](https://touch.pixiv.net)<br>
 如果您想为此仓库贡献<br>
 请见☞[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
