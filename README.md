@@ -48,7 +48,9 @@ Yunzai-Bot/plugins/miao-plugin/resources/profile/normal-character
 <br>
 
 #### 版权免责声明
-图片仅限内部交流与小范围使用，请勿将此模板图库用于任何以盈利为目的的场景
+图片仅限内部交流与小范围使用，请勿将此模板图库用于任何以盈利为目的的场景<br>
+使用本项目导致造成账号冻结或封禁，本项目不负责<br>
+如介意上方条款，请立刻停止使用
 
 #### 项目地址
 * Yunzai-Bot：[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)
