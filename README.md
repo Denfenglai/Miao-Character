@@ -10,7 +10,7 @@ Miao-Plugin的角色面板(彩蛋)图库
 #### 图库说明
 
 此库提供由我或AI抠制的自主上传的角色面板彩蛋图<br>
-##### 原图均来源于[pixiv](https://touch.pixiv.net)<br>
+##### 原图均来源于 [Pixiv](https://touch.pixiv.net)<br>
 如果您想为此仓库贡献<br>
 请见☞[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
 
@@ -60,6 +60,8 @@ Yunzai-Bot/plugins/miao-plugin/resources/profile/normal-character
 * Miao-plugin：[Gitee](https://gitee.com/yoimiya-kokomi/miao-plugin) & [Github](https://github.com/yoimiya-kokomi/miao-plugin)
 
 * Yunzai-Bot插件库：[Gitee](https://gitee.com/Hikari666/Yunzai-Botplugins-index) & [GitHub](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
+
+* 等风来脚本：[Gitee](https://gitee.com/Wind-is-so-strong/yz)
 
 #### 其他
 * 最后再求一个[爱发电](https://afdian.net/a/ShuiBZs1314520)，您的支持是维护本项目的动力
