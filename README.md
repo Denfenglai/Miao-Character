@@ -11,8 +11,6 @@ Miao-Plugin的角色面板(彩蛋)图库
 
 此库提供由我或他人自主上传的角色面板彩蛋图<br>
 ##### 原图均来源于 [Pixiv](https://touch.pixiv.net)<br>
-如果您想为此仓库贡献<br>
-请见☞[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
 
 #### 食用方法
 下载压缩包或者拉取git后自行挑选character文件夹内文件存放至`彩蛋或普通面板`位置即可使用<br>
@@ -45,7 +43,7 @@ Yunzai-Bot/plugins/miao-plugin/resources/profile/normal-character
 
 ## 贡献内容
 
-请向此仓库发起 pull request
+请向此仓库发起 pull request 或联系QQ:3139373986
 
 <br>
 
