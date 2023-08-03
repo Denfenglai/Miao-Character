@@ -37,7 +37,7 @@ Yunzai-Bot/plugins/miao-plugin/resources/profile/normal-character
 | 作者 | QQ |
 | --- | --- |
 |等风来|3139373986|
-|lzjjs|257800180|
+|其实雨很好|257800180|
 
 <br>
 
